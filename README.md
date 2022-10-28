@@ -31,21 +31,23 @@ Users should be able to:
 ### Screenshot
 
 <p align="center">
-  <img src="./others/screenshots/mobile.png" height="350"/>
   <img src="./others/screenshots/desktop.png" height="350"/>
-</p>
-<p align="center">
-  <img src="./others/screenshots/mobile-complete-state.png" height="350"/>
-  <img src="./others/screenshots/desktop-complete-state.png" height="350"/>
 </p>
 <p align="center">
   <img src="./others/screenshots/desktop-states.png" height="350"/>
 </p>
+<p align="center">
+  <img src="./others/screenshots/desktop-complete-state.png" height="350"/>
+</p>
+<p align="center">
+  <img src="./others/screenshots/mobile.png" height="350"/>
+  <img src="./others/screenshots/mobile-complete-state.png" height="350"/>
+</p>
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/montteiropedro/card-details-form](https://github.com/montteiropedro/card-details-form)
+- Live Site URL: [https://montteiropedro.github.io/card-details-form/](https://montteiropedro.github.io/card-details-form/)
 
 ## My process
 
