@@ -26,6 +26,10 @@
   --font-lg: 1.125rem;
   --font-xl: 1.25rem;
   --font-2xl: 1.375rem;
+
+  /* Containers Width */
+  --aside-desktop-container-width: min(30%, 450px);
+  --aside-mobile-container-width: 40%;
 }
 
 html,
@@ -48,7 +52,7 @@ aside.container {
   position: relative;
   padding: 3rem;
   width: 100%;
-  height: 300px;
+  height: var(--aside-mobile-container-width);
   background: url("../assets/bg-main-desktop.png") no-repeat;
   background-size: cover;
 }
@@ -56,7 +60,7 @@ aside.container {
 @media only screen and (min-width: 913px) {
   aside.container {
     padding: 0;
-    width: 350px;
+    width: var(--aside-desktop-container-width);
     height: 100%;
   }
 }
@@ -233,7 +237,7 @@ main.container {
 
 @media only screen and (min-width: 913px) {
   main.container {
-    width: calc(100% - 350px);
+    width: calc(100% - var(--aside-desktop-container-width));
   }
 }
 
