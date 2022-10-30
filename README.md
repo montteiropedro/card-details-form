@@ -40,8 +40,8 @@ Users should be able to:
   <img src="./others/screenshots/desktop-complete-state.png" height="350"/>
 </p>
 <p align="center">
-  <img src="./others/screenshots/mobile.png" height="350"/>
-  <img src="./others/screenshots/mobile-complete-state.png" height="350"/>
+  <img src="./others/screenshots/mobile.jpg" height="350"/>
+  <img src="./others/screenshots/mobile-complete-state.jpg" height="350"/>
 </p>
 
 ### Links
